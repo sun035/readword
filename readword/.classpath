@@ -11,5 +11,7 @@
 	<classpathentry kind="lib" path="src/cn/wt/readword/lib/commons-collections4-4.1.jar"/>
 	<classpathentry kind="lib" path="src/cn/wt/readword/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="src/cn/wt/readword/lib/fastjson-1.2.4.jar"/>
+	<classpathentry kind="lib" path="src/cn/wt/readword/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="src/cn/wt/readword/lib/poi-ooxml-schemas-3.17-beta1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
